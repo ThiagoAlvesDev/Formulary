@@ -1,5 +1,5 @@
 <h1> Formulary </h1>
 
-<p> Quando estudei PHP eu fiz um projeto simples https://github.com/Thiago3006/Estudo/tree/master/Projeto_1, a alguns dias decide pegar todo 
-conhecimento que venho adquirindo nesses ultimos meses e decidi melhorar meu formulário, o resultado está ai, após finalizar e comparar eu 
-tive certeza que estou no caminho certo e que não vou parar, ser autodidata não é fácil, mas vejo que consigo resultados com muito trabalho e esforço.</p>
+<p> When I studied PHP I made a simple project https://github.com/Thiago3006/Estudo/tree/master/Projeto_1, a few days ago I decided to take it all
+knowledge that I have been acquiring over the last few months and I decided to improve my form, the result is there, after finishing and comparing I
+I'm sure I'm on the right path and that I won't stop, being self-taught is not easy, but I see that I get results with a lot of work and effort. </p>
